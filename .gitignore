@@ -1,0 +1,8 @@
+memo
+node_modules
+build
+venv
+.env
+tmp
+cache
+out
